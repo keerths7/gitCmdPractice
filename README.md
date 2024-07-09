@@ -4,7 +4,7 @@ This repository is designed to help you practice and master the basic Git comman
 
 ### 1. Initialize a New Git Repository
 
-git init
+`git init`
 
 Initializes a new Git repository in the current directory.
 
