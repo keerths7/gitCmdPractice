@@ -6,6 +6,7 @@ h1{
     border: solid black 5px;
     font-weight:lighter;
     font-style: oblique;
+    background-color:blanchedalmond;
 }
 h2{
     color:pink;
@@ -13,4 +14,5 @@ h2{
     font-weight: bolder;
     border: solid cornflowerblue 3px;
     background-color: beige;
+    
 }
